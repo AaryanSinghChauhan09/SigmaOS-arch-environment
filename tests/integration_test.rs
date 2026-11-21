@@ -1,4 +1,4 @@
-use arch_environment::Component;
+use sigmaos_environment::Component;
 
 #[test]
 fn test_component_new_aaa() {

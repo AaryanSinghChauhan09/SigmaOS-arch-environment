@@ -1,10 +1,10 @@
 [package]
-name = "arch-environment"
+name = "sigmaos-environment"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-environment component - SigmaOS component"
+description = "SigmaOS SigmaOS-environment component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-environment"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-environment"
 
 [dependencies]
 thiserror = "2"

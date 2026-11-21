@@ -1,4 +1,4 @@
-# SigmaOS-arch-environment
+# SigmaOS-environment
 
 GitHub description is a placeholder; component scope remains unclassified.
 
